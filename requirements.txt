@@ -1,7 +1,0 @@
-numpy
-tensorflow
-matplotlib
-scikit-learn
-keras
-streamlit
-PIL
